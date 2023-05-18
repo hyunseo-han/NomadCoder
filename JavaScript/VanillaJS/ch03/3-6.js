@@ -10,6 +10,7 @@ function handleTitleClick() {
   // } else {
   //   h1.style.color = "blue";
   // }
+
   if (currentColor === "blue") {
     newColor = "tomato";
   } else {
